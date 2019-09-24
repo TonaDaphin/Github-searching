@@ -1,0 +1,32 @@
+.display-3, .heading1{
+    text-align: center;
+  }
+  .btn-outline-secondary {
+    border: 3px solid
+  }
+  a .btn:hover{
+    color: #fff;
+  }
+  .card{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+  }.link{
+    text-decoration: none;
+    color: #fff;
+  }
+  img{
+    border-radius:30px;
+    text-align: center;
+  }
+  .about{
+    display: inline-flex;
+  }
+  .repos{
+    text-align:center;
+    margin: 50px auto;
+  }
+  .repo{
+    text-align:center;
+    margin: auto;
+  }
