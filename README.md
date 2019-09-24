@@ -17,7 +17,7 @@ This website will help you to search Github users with information about their a
 
 ## Live link
 
-[Gihub-search](https://tonadaphin.github.io/Github-search/).
+[Gihub-search](https://tonadaphin.github.io/Github-searching/).
 
 ## License
 
